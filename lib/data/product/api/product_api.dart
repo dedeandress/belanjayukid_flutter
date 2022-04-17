@@ -1,4 +1,4 @@
-import 'package:belanjayuk_id_pos/src/data/product/entity/product_response_dto.dart';
+import 'package:belanjayuk_id_pos/data/product/entity/product_response_dto.dart';
 import 'package:dio/dio.dart';
 import 'package:retrofit/http.dart';
 
